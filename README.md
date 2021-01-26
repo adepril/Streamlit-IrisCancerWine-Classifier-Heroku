@@ -5,7 +5,7 @@ Simple machine learning web application using python libraries streamlit and sci
 
 # Outputs
 
-***<a href="https://github.com/suyashphatak23/Iris-Flower-Classifier/blob/master/Output.mp4">Refer this video for output</a>***
+![Output](https://github.com/adepril/Streamlit-IrisCancerWine-Classifier-Heroku/blob/master/Output.gif)
 
 
 # Setup
