@@ -1,7 +1,7 @@
 
 # Iris Flower Classifier Using Machine Learning
 
-Simple machine learning web application using python libraries streamlit and scikit-learn. The iris flower dataset is one of the default or sample datasets in sklearn. I have used pandas to create dataframes and used the *RandomForestClassifier* function of sklearn to classify the type of iris flower. It was great experience to write a simple web app with streamlit. I refered a article from website *towardsdatascience.com* to create this project.
+Simple machine learning web application using python libraries streamlit and scikit-learn. 
 
 # Outputs
 
